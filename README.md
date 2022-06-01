@@ -28,7 +28,10 @@ The dataset is formed by 2000 rows and 18 columns, whose content description is 
 - **tempo:** Tempo in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.<br><br>
 - **genre:** Genre of the track.<br><br>
 
-Different techniques of **data transformation** and **data treatment** were used in order to make it easier to make studies using *data visualization* with **matplotlib**, **seaborn** and **plotly** libraries.<br>
+Different techniques of **data transformation** and **data treatment** were used in order to make it easier to make studies using *data visualization* with **matplotlib**, **seaborn** and **plotly** libraries.<br><br>
+
+
+---
 
 ### Kaggle
 In order to have a better comprehension and interaction with **plotly charts** used in this study, please <a href="https://www.kaggle.com/code/lusfernandotorres/spotify-top-hits-2000-2019-eda">click here to view this noteook on Kaggle</a>.
