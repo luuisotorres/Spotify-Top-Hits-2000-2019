@@ -34,7 +34,7 @@ Different techniques of **data transformation** and **data treatment** were used
 ---
 
 #### Kaggle
-In order to have a better comprehension and interaction with **plotly charts** used in this study, please <a href="https://www.kaggle.com/code/lusfernandotorres/spotify-top-hits-2000-2019-eda">click here to view this noteook on Kaggle</a>.
+In order to have a better comprehension and interaction with **plotly charts** used in this study, please <a href="https://www.kaggle.com/code/lusfernandotorres/spotify-top-hits-2000-2019-eda">click here to view this notebook on Kaggle</a>.
 
 ## Author:
 **Luís Fernando Torres**
